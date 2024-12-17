@@ -1,0 +1,5 @@
+test\PlayerManager\PlayerHandlerListeners.class
+test\PlayerManager\PlayerHandler.class
+test\PlayerManager\SqlQuery.class
+test\PlayerManager\PlayerManager.class
+test\PlayerManager\PrisonPlayer.class

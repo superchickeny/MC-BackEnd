@@ -1,0 +1,4 @@
+name: PlayerManager
+version: '1.0-SNAPSHOT'
+main: test.PlayerManager.PlayerManager
+api-version: '1.21'
